@@ -1,8 +1,9 @@
 FilterDE
 ========
     filter GEGs from DESeq2 or EDGR analysis based on log2fc and pvalue 
+    dependancies: optparse
 
-    ./FilterDE -h
+    ./FilterDE.py -h
     Usage: FilterDE [options]
 
 Options
