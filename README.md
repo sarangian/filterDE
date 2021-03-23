@@ -1,7 +1,7 @@
 FilterDE
 ========
     filter GEGs from DESeq2 or EDGR analysis based on log2fc and pvalue 
-    dependancies: optparse
+    dependancies: optparse, pandas
 
     ./FilterDE.py -h
     Usage: FilterDE [options]
